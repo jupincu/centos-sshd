@@ -1,0 +1,2 @@
+1.增加SUPERVISOR
+2.打开SSHD
